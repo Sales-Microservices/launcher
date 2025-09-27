@@ -7,3 +7,6 @@
 [submodule "orders-service"]
 	path = orders-service
 	url = https://github.com/Sales-Microservices/Orders-Microservice.git
+[submodule "payments-ms"]
+	path = payments-ms
+	url = https://github.com/Sales-Microservices/Payments-Microservice.git
